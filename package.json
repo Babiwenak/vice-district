@@ -1,0 +1,16 @@
+{
+  "name": "vice-district",
+  "version": "1.0.0",
+  "description": "Open-world crime game (GTA 6 style) - city grid, traffic, peds, wanted system, missions, combat, HUD, radio",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts",
+    "dev": "node main.ts"
+  },
+  "keywords": ["gta6", "game", "open-world", "crime", "makefun"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
